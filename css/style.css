@@ -1,0 +1,296 @@
+#stripe {
+    font-size: 0;
+}
+
+.color1 {
+
+    background-color: black;
+
+}
+
+.title {
+    font-size: 7px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+    left: 4px;
+    top: 4px;
+    color: white;
+  
+}
+
+.title2 {
+    font-size: 11px;
+    text-align: left;
+    position: relative;
+    font-weight: normal;
+    left: 20px;
+    bottom: 12px;
+    color: white;
+  
+}
+
+.button1 {
+
+    width: 150px;
+    height: 90px;
+    left: 20px;
+    bottom: 23px;
+    border-style: hidden;
+    text-align: right;
+    font-size: 28px;
+    position: relative;
+    background-color: rgba(31, 31, 31, 0);
+    
+}
+
+.button1::placeholder {
+    color: rgb(255, 255, 255);
+    opacity: 1;
+}
+
+.button2 {
+    width: 50px;
+    border-style: hidden;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.664);
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    box-shadow: 1px 1px rgb(255, 255, 255);
+    cursor: pointer;
+
+}
+
+.button2:hover {
+
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+.button3 {
+    width: 50px;
+    border-style: hidden;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.664);
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    box-shadow: 1px 1px rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.button3:hover {
+
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+.button4 {
+    width: 50px;
+    border-style: hidden;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.664);
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    box-shadow: 1px 1px rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.button4:hover {
+
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+.button5 {
+    width: 50px;
+    border-style: hidden;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.664);
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    box-shadow: 1px 1px rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.button5:hover {
+
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+.button6 {
+    width: 50px;
+    border-style: hidden;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.664);
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    box-shadow:  1px 1px rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.button6:hover {
+
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+.button7 {
+    width: 50px;
+    border-style: hidden;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.664);
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    box-shadow:  1px 1px rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.button7:hover {
+
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+.button8 {
+
+background-color: rgba(0, 0, 0, 0);
+border: 1px solid rgba(0, 0, 0, 0);
+height: 15px;
+width: 22px;
+position: relative;
+bottom: 11px;
+left: 69px;
+font-size: 6px;
+color: white;
+cursor: pointer;
+
+}
+
+.button8:hover {
+    background-color: rgba(143, 140, 140, 0.418);
+}
+
+.button9 {
+
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0);
+    height: 15px;
+    width: 22px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 10px;
+    left: 69px;
+    font-size: 8px;
+    color: white;
+    cursor: pointer;
+
+}
+    
+    .button9:hover {
+    background-color: rgba(143, 140, 140, 0.418);
+}
+
+.button10 {
+
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0);
+    height: 15px;
+    width: 22px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 10px;
+    font-size: 8px;
+    left: 69px;
+    color: white;
+    cursor: pointer;
+
+}
+    
+    .button10:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+.button11 {
+
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0);
+    position: relative;
+    font-size: 8px;
+    right: 93px;
+    height: 20px;
+    width: 20px;
+    bottom: 29px;
+    cursor: pointer;
+    font-size: 12px;
+
+}
+
+.button11:hover {
+    background-color: rgba(143, 140, 140, 0.418);
+}
+
+.fix1{
+    top: 1.5px;
+
+}
+
+.fix2{
+    box-shadow:  0px 1px rgb(255, 255, 255);
+}
+
+.fix3 {
+    position: relative;
+    top: 1.5px;
+}
+
+.fix4 {
+    box-shadow:  1px 0px rgb(255, 255, 255);
+}
+
+.fix5 {
+    box-shadow:  0px 0px rgb(255, 255, 255);
+}
+
+.color1 {
+    background-color: rgb(83, 22, 139);
+}
+
+.color1:hover {
+    background-color: rgb(118, 45, 185); 
+}
+
+.color2 {
+    background-color: rgba(0, 0, 0, 0.897);
+}
+
+.color3 {
+    background-color: rgba(0, 0, 0, 0.24);
+    position: relative;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    border: 1px solid rgba(0, 0, 0, 0.034);
+    box-shadow: 1px 1px 1px rgba(207, 130, 231, 0.39);
+    width: 205px;
+    height: 405px;
+    background-color: rgba(0, 0, 0, 0.644);
+    margin-top: 1%;
+    position: relative;
+}
+
+
+
